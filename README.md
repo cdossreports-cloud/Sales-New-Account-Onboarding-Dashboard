@@ -5,6 +5,10 @@
 ![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Preparation-217346)
 ![Status](https://img.shields.io/badge/Project-Portfolio%20Ready-success)
 
+<img width="1068" height="614" alt="01_Executive_Dashboard" src="https://github.com/user-attachments/assets/3978f266-6c9c-4f09-8467-8999072d17b5" />
+<img width="1380" height="752" alt="HAG Generated_Image" src="https://github.com/user-attachments/assets/9db43d50-4bf4-4c37-afac-ebe0511fbc72" />
+
+
 ## 📊 Project Overview
 
 The **Sales New Account Onboarding Dashboard** is a Power BI business intelligence project designed to provide visibility into the new account onboarding lifecycle—from initial request submission through credit review, customer documentation, account creation, and account activation.
@@ -39,7 +43,8 @@ Provides a high-level snapshot of onboarding activity with:
 - Pipeline status filtering
 - Sales team assignee filtering
 
-![Executive Dashboard](screenshots/01_Executive_Dashboard.png)
+<img width="1068" height="614" alt="01_Executive_Dashboard" src="https://github.com/user-attachments/assets/c27320b7-681d-471e-9f9d-ec849ce12bc3" />
+
 
 ### 2. Onboarding Milestones
 
@@ -52,8 +57,10 @@ Tracks the progression of accounts through important onboarding milestones, incl
 - Account creation
 - Welcome package
 - Elapsed onboarding time
+  
+<img width="1088" height="608" alt="02_Onboarding_Milestones" src="https://github.com/user-attachments/assets/e2306f05-00d3-49f8-8203-12fb65c7778b" />
 
-![Onboarding Milestones](screenshots/02_Onboarding_Milestones.png)
+
 
 ### 3. Opportunity Roadblocks
 
@@ -70,13 +77,15 @@ Roadblock categories represented in the dashboard include:
 
 The detailed pipeline summary connects these categories to individual accounts and specific setup issues.
 
-![Opportunity Roadblocks](screenshots/03_Opportunity_Roadblocks.png)
+<img width="1094" height="619" alt="03_Opportunity_Roadblocks" src="https://github.com/user-attachments/assets/b27d751b-5fec-40f1-9a13-d558fe29c8c2" />
+
 
 ### 4. Data Export
 
 Provides a detailed account-level view of the onboarding dataset and supports operational review/export of the underlying records.
 
-![Data Export](screenshots/04_Data_Export.png)
+<img width="1088" height="593" alt="04_Data_Export" src="https://github.com/user-attachments/assets/a34011ab-4372-430f-95f5-c258a197c122" />
+
 
 ## 🔄 Onboarding Process
 
