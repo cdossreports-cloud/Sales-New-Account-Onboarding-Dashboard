@@ -169,6 +169,22 @@ A dashboard of this type can support sales and onboarding teams by helping them:
 - Distinguish active work from lost opportunities.
 - Identify areas where process improvements may reduce delays.
 
+## 💡 Key Insights & Recommendations
+
+### Key Insights
+
+- **64% of opportunities are still in progress:** 16 of 25 accounts are in Request Submitted, Credit Review, or Awaiting Customer Documents.
+- **Credit review and customer documentation require attention:** These two stages contain 12 of 25 accounts (48% of the pipeline).
+- **Customer Engagement, Documentation, and Tax / Regulatory** each accounted for **3 instances (20%)**.
+- **16% of opportunities were lost:** 4 accounts are classified as Opportunity Lost and can be reviewed for recurring loss reasons.
+
+### Recommendations
+
+- Prioritize a weekly review of accounts in **Credit Review**, the most common roadblock category.
+- Use reminder and escalation workflows to reduce delays related to **customer engagement** and **documentation**.
+- Partner with Compliance and Tax teams to establish clear requirements and turnaround expectations for regulated account setup.
+- Use the account-level export as a follow-up list for Sales and Onboarding teams, with emphasis on accounts carrying open roadblocks.
+
 ## 🛠️ Tools & Technologies
 
 - **Microsoft Power BI** — Interactive dashboard development
