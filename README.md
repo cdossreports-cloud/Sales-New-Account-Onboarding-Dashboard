@@ -5,7 +5,6 @@
 ![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Preparation-217346)
 ![Status](https://img.shields.io/badge/Project-Portfolio%20Ready-success)
 
-<img width="1068" height="614" alt="01_Executive_Dashboard" src="https://github.com/user-attachments/assets/3978f266-6c9c-4f09-8467-8999072d17b5" />
 <img width="1380" height="752" alt="HAG Generated_Image" src="https://github.com/user-attachments/assets/9db43d50-4bf4-4c37-afac-ebe0511fbc72" />
 
 
