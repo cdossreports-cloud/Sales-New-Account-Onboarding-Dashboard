@@ -120,9 +120,10 @@ Account Created
 Welcome Package Sent
         ↓
 Account Active / Ready for Order
-```
-Opportunity Lost is treated as a separate outcome rather than as an active onboarding stage.
-📌 Dataset Snapshot
+
+---
+
+#  📌 Dataset Snapshot
 The portfolio dataset contains 25 synthetic records.
 Status	Records
 Request Submitted	4
@@ -136,7 +137,9 @@ Account Type	Records
 Acquisition	14
 New Account	11
 The data is fictional/synthetic and does not contain real customer information.
-🔎 Analytical Approach
+---
+
+#  🔎 Analytical Approach
 The project focuses on four areas:
 Pipeline Visibility
 The Executive Dashboard shows where each opportunity currently sits in the onboarding workflow and provides filters for time period, status, and sales team assignee.
@@ -146,7 +149,9 @@ Bottleneck Analysis
 Roadblock categories and account-level setup issues are analyzed to identify recurring operational barriers such as documentation, customer engagement, credit, legal/compliance, and tax/regulatory requirements.
 Opportunity Loss
 Lost opportunities are separated from active work in progress so that pending accounts are not incorrectly interpreted as failed conversions. The dashboard provides visibility into the reasons associated with lost opportunities.
-💡 Business Value
+
+---
+#  💡 Business Value
 A dashboard of this type can support sales and onboarding teams by helping them:
 Prioritize accounts requiring follow-up.
 Identify recurring documentation or setup issues.
@@ -154,14 +159,19 @@ Monitor onboarding cycle time.
 Surface process bottlenecks.
 Distinguish active work from lost opportunities.
 Identify areas where process improvements may reduce delays.
-🛠️ Tools & Technologies
+---
+
+# 🛠️ Tools & Technologies
 Microsoft Power BI — Interactive dashboard development
 DAX — Measures, KPIs, and elapsed-time calculations
 Power Query — Data preparation and transformation
 Microsoft Excel — Synthetic source dataset
 Data Visualization — Executive and operational reporting
 Business Process Analysis — Workflow and bottleneck analysis
-📋 Key Data Fields
+
+---
+
+# 📋 Key Data Fields
 The source data includes fields such as:
 Account Type
 Status
@@ -180,7 +190,10 @@ Created By
 Number of Updates
 Account Setup Roadblocks
 Opportunity Lost Reason
-📁 Repository Structure
+
+---
+
+# 📁 Repository Structure
 ```text
 Sales-New-Account-Onboarding-Dashboard/
 │
@@ -206,7 +219,7 @@ Sales-New-Account-Onboarding-Dashboard/
 └── DAX/
     └── Measures.md
 ```
-👩🏽‍💻 Skills Demonstrated
+#👩🏽‍💻 Skills Demonstrated
 This project demonstrates skills in:
 Reporting & Business Intelligence
 Power BI Dashboard Development
@@ -219,7 +232,10 @@ Process Improvement
 Workflow Analysis
 Bottleneck / Root-Cause Analysis
 Business Stakeholder-Oriented Reporting
-🔗 Related Portfolio Project
+
+---
+
+#🔗 Related Portfolio Project
 This project complements the Greenwood Clinical Admissions Analysis 2023 project by demonstrating a different business domain and a stronger operational/process-reporting focus.
 ---
 Portfolio Project | Sales Operations & Business Intelligence
