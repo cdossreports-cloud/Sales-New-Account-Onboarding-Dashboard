@@ -5,7 +5,7 @@
 ![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Preparation-217346)
 ![Status](https://img.shields.io/badge/Project-Portfolio%20Ready-success)
 
-## 📊 Project Overview
+##  Project Overview
 
 The **Sales New Account Onboarding Dashboard** is a Power BI business intelligence project designed to provide visibility into the new account onboarding lifecycle—from initial request submission through credit review, customer documentation, account creation, and account activation.
 
@@ -15,7 +15,7 @@ The dashboard combines executive-level KPIs with operational detail to help answ
 
 The project uses a synthetic dataset of **25 account onboarding records** created for portfolio demonstration.
 
-## 🎯 Business Objectives
+## Business Objectives
 
 - Monitor the health of the new account onboarding pipeline.
 - Track accounts by onboarding status and milestone.
@@ -24,7 +24,7 @@ The project uses a synthetic dataset of **25 account onboarding records** create
 - Analyze reasons for opportunity loss.
 - Provide an operational account-level view for follow-up and reporting.
 
-## 📈 Dashboard Pages
+## Dashboard Pages
 
 ### 1. Executive Dashboard
 
@@ -78,7 +78,7 @@ Provides a detailed account-level view of the onboarding dataset and supports op
 
 ![Data Export](screenshots/04_Data_Export.png)
 
-## 🔄 Onboarding Process
+## Onboarding Process
 
 ```text
 Request Submitted
@@ -96,7 +96,7 @@ Account Active / Ready for Order
 
 **Opportunity Lost** is treated as a separate outcome rather than as an active onboarding stage.
 
-## 📌 Dataset Snapshot
+## Dataset Snapshot
 
 The portfolio dataset contains **25 synthetic records**.
 
@@ -116,7 +116,7 @@ The portfolio dataset contains **25 synthetic records**.
 
 The data is fictional/synthetic and does not contain real customer information.
 
-## 🔎 Analytical Approach
+##  Analytical Approach
 
 The project focuses on four areas:
 
@@ -136,7 +136,7 @@ Roadblock categories and account-level setup issues are analyzed to identify rec
 
 Lost opportunities are separated from active work in progress so that pending accounts are not incorrectly interpreted as failed conversions. The dashboard provides visibility into the reasons associated with lost opportunities.
 
-## 💡 Business Value
+##  Business Value
 
 A dashboard of this type can support sales and onboarding teams by helping them:
 
@@ -147,7 +147,7 @@ A dashboard of this type can support sales and onboarding teams by helping them:
 - Distinguish active work from lost opportunities.
 - Identify areas where process improvements may reduce delays.
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Microsoft Power BI** — Interactive dashboard development
 - **DAX** — Measures, KPIs, and elapsed-time calculations
@@ -156,7 +156,7 @@ A dashboard of this type can support sales and onboarding teams by helping them:
 - **Data Visualization** — Executive and operational reporting
 - **Business Process Analysis** — Workflow and bottleneck analysis
 
-## 📋 Key Data Fields
+## Key Data Fields
 
 The source data includes fields such as:
 
@@ -178,7 +178,7 @@ The source data includes fields such as:
 - Account Setup Roadblocks
 - Opportunity Lost Reason
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 Sales-New-Account-Onboarding-Dashboard/
@@ -206,7 +206,7 @@ Sales-New-Account-Onboarding-Dashboard/
     └── Measures.md
 ```
 
-## 👩🏽‍💻 Skills Demonstrated
+##  Skills Demonstrated
 
 This project demonstrates skills in:
 
@@ -222,7 +222,7 @@ This project demonstrates skills in:
 - Bottleneck / Root-Cause Analysis
 - Business Stakeholder-Oriented Reporting
 
-## 🔗 Related Portfolio Project
+##  Related Portfolio Project
 
 This project complements the **Greenwood Clinical Admissions Analysis 2023** project by demonstrating a different business domain and a stronger operational/process-reporting focus.
 
