@@ -39,7 +39,9 @@ Provides a high-level snapshot of onboarding activity with:
 - Pipeline status filtering
 - Sales team assignee filtering
 
-![Executive Dashboard](screenshots/01_Executive_Dashboard.png)
+<img width="1068" height="614" alt="01_Executive_Dashboard" src="https://github.com/user-attachments/assets/e6a01084-1b8a-4e48-a305-d619a64a52de" /><img width="1088" height="593" alt="04_Data_Export" src="https://github.com/user-attachments/assets/9767a6f3-93f0-4c11-ab7e-555110659adb" />
+<img width="1088" height="608" alt="02_Onboarding_Milestones" src="https://github.com/user-attachments/assets/a1bb4f9f-a03d-4932-abda-62cc4330deb2" />
+
 
 ### 2. Onboarding Milestones
 
