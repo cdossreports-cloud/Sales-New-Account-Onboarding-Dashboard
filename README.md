@@ -190,8 +190,6 @@ Sales-New-Account-Onboarding-Dashboard/
 │
 ├── data/
 │   └── Account Onboarding Test Data.xlsx
-│
-├── screenshots/
 │   ├── 01_Executive_Dashboard.png
 │   ├── 02_Onboarding_Milestones.png
 │   ├── 03_Opportunity_Roadblocks.png
